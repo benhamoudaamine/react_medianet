@@ -1,0 +1,32 @@
+.container {
+    margin: 0 auto;
+    max-width: 600px;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .btn-outline-success {
+    color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-outline-success:hover {
+    background-color: #28a745;
+    color: white;
+  }
+  
+  .btn-outline-success:focus {
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.5);
+    color: white;
+  }
+  
+  .text-outline-success {
+    color: #28a745;
+  }
+  
